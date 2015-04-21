@@ -1,2 +1,5 @@
 I'm watching you Brock!
 Let's play some Competetive Diddy Kong! ... oh wait, Nintendo nerfed him, wii sports anyone?
+
+derpmaster derp = new derpmaster
+derp.doFail("playing jigglypuff and singing over the edge",2)
